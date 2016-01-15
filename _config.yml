@@ -1,15 +1,15 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Matt Hargrave Realty
+email: matt@matthargrave.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: ef0005
+  secondary: 0061c2
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -49,21 +49,21 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/matt.hargrave.sold.it/
+  - title: google-plus
+    url: https://plus.google.com/u/0/b/115066171609944608218/115066171609944608218
+  - title: instagram
+    url: https://www.instagram.com/hargraverealtyprofessionals/
+  - title: linkedin
+    url: https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button
+  - title: youtube
+    url: https://www.youtube.com/channel/UCdbZyBXIYB564_ur1YZqh_w/feed
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1900 NW S Outer Road
+  - line: Blue Springs MO 64015
 
 # Build settings
 markdown: kramdown
