@@ -18,14 +18,15 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formkeep.com/f/a363bbabde41",
-                type: "POST",
+                url: "//formspree.io/igneo676@gmail.com",
+                method: "POST",
                 data: {
                     name: name,
                     phone: phone,
                     email: email,
                     message: message
                 },
+                dataType: "json",
                 cache: false,
                 success: function() {
                     // Success message
